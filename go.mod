@@ -1,4 +1,4 @@
-module uptime.hasebou.com
+module github.com/khasebou/uptime
 
 go 1.22.1
 
